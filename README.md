@@ -69,4 +69,6 @@ simulate-user-activity/
 <p align="center"><img src="https://github.com/DelwarSumon/simulate-user-activity/blob/main/screenshots/Screenshot_.png?raw=true"></p>
 <p align="center"><img src="https://github.com/DelwarSumon/simulate-user-activity/blob/main/screenshots/Screenshot_5.png?raw=true"></p>
 
+***-- Special thanks to [ChatGPT](https://openai.com/chatgpt) for assisting with project ideas and development. --***
+
 ***-- Have FUN --***
