@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/DelwarSumon/simulate-user-activity" ><img src="https://github.com/DelwarSumon/simulate-user-activity/blob/main/screenshots/simulate_activitiy.webp?raw=true" style=""></a></p>
+<p align="center"><a href="https://github.com/DelwarSumon/simulate-user-activity" ><img src="https://github.com/DelwarSumon/simulate-user-activity/blob/main/screenshots/simulate_activity.webp?raw=true" style=""></a></p>
 
 ## App Switcher with Simulated User Activity
 This Python application allows users to simulate user interactions with multiple selected applications. It automates tasks like moving the cursor, scrolling within windows, and switching between apps seamlessly. The app is designed with a user-friendly GUI, enabling easy selection and customization of tasks.
